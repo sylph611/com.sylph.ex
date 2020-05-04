@@ -28,6 +28,7 @@ public class HelloResponseDtoTest {
          *  isEqualTo
          *   assertj의 동등 비교 메소드
          *   assertThat에 있는 값과 isEqualTo의 값을 비교해서 같을 때만 성공입니다.
+         *   테스트
          */
     }
 }
