@@ -15,6 +15,5 @@ import java.lang.annotation.Target;
 public @interface LoginUser {
     /**
      * @interface 이 파일을 어노테이션 클래스로 지정한다.
-     *
      */
 }
